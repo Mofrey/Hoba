@@ -1,7 +1,7 @@
 {
-  "name": "cyber-tracker",
+  "name": "community-site",
   "version": "1.0.0",
-  "description": "Tracker and face detector",
+  "description": "Hoba Community",
   "main": "main.js",
   "dependencies": {
     "body-parser": "^1.18.3",
@@ -23,15 +23,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nobleson/cyber-tracker.git"
+    "url": "https://github.com/Mofrey/Hoba.git"
   },
   "keywords": [
-    "tracker"
+    "community"
   ],
-  "author": "Mr Ityav Luke",
+  "author": "Mr Manunyi Godfrey",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nobleson/cyber-tracker/issues"
+    "url": "https://github.com/Mofrey/Hoba.git"
   },
-  "homepage": "https://github.com/nobleson/cyber-tracker#readme"
+  "homepage": "https://github.com/Mofrey/Hoba#readme"
 }
