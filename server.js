@@ -38,7 +38,6 @@ mongoose.connect(mongoURL, {
 var indexRouter = require('./routes');
 var faceRouter = require('./routes/Face');
 
-
 app.use('/public/assets/', express.static(__dirname + '/public/assets/'));
 app.use('/public/assets/fileserver', express.static(__dirname + '/public/assets/fileserver'));
 
